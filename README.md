@@ -46,10 +46,7 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Acknowledgements
-Give credit here.
 - This project was inspired by the real-world challenges faced by lending institutions in mitigating credit loss while striving to expand their customer base.
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
