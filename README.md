@@ -1,4 +1,5 @@
 # Lending club case study
+![Lending club case study](./images/logo.jpeg)
 > This project aims to identify significant driving factors behind consumer loan defaults within the specified loan company, employing diverse range of Exploratory Data Analysis(EDA) methodologies. By identifying these key indicators, the company can improve its portfolio management and risk assessment practices. 
 
 
@@ -17,8 +18,6 @@
 - The [dataset](./loan.csv) & [dataset dictionary](./Data_Dictionary.xlsx) used contains the complete loan data for all consumer loans issued through the time period 2007 to 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-![Sample Image](./images/sample.png)
 
 ## Project Structure
 - [Dataset](./loan.csv) - Dataset of the consumer loan company 
