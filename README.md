@@ -30,6 +30,9 @@
 - Python - 3
 - Pandas
 - Matplotlib
+- Plotly
+- Seaborn
+- Numpy
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
