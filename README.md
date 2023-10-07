@@ -14,7 +14,7 @@
 ## General Information
 - This project delves into the domain of risk analytics within the consumer finance sector, particularly focusing on a company that specializes in lending various types of loans to urban customers.
 - The crux of the business problem revolves around minimizing financial loss to the company and assesing it's risk.
-- The [dataset](./loan.csv) & [dataset dictionary](./Data_Dictionary.xlsx) used contains the complete loan data for all consumer loans issued through the time period 2007 t0 2011.
+- The [dataset](./loan.csv) & [dataset dictionary](./Data_Dictionary.xlsx) used contains the complete loan data for all consumer loans issued through the time period 2007 to 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
