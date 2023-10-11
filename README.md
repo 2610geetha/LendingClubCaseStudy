@@ -38,10 +38,18 @@
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- For same range loan amounts, there are different interest rates. Loan amounts which has high interest rates have high chances for charged off. 
+
+- In case of Charged off loan applications, installment is little higher could because of high interest rate.
+
+- For same range of annual Income, loan amounts are higher in case of Charged Off loans than Fully paid. Lending club company should bring some standardization on loan amount against annual income. Same with employee duration also.
+
+- Loans with mortgage home ownership have taken high loan amounts and defaulted. Lending club company should not approve high loan amount on this category to avoid charged off.
+
+- Small business, credit card loans provided with high loan amounts are charged off, Lending club company should not approve high loan amount on this category too, to avoid charged off.
+
+- Lower grades with high loan amount have changes of charged off. Borrower with high public record bankruptcies have provide high loan amount in case of charged off Loans
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Acknowledgements
